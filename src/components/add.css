@@ -1,0 +1,12 @@
+.btn-ct{
+    margin: 20px;
+    background: green;
+    width: 125px;
+    border: none;
+}
+.btn-ct:hover{
+    background: green ;
+}
+.ip-ct{
+    margin: 20px;
+}
