@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/exam-react/static/css/main.d5289b2f.css",
+    "main.js": "/exam-react/static/js/main.73ad434f.js",
+    "index.html": "/exam-react/index.html",
+    "main.d5289b2f.css.map": "/exam-react/static/css/main.d5289b2f.css.map",
+    "main.73ad434f.js.map": "/exam-react/static/js/main.73ad434f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5289b2f.css",
+    "static/js/main.73ad434f.js"
+  ]
+}
